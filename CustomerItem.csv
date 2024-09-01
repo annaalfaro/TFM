@@ -1,4 +1,4 @@
-CustomerItem_id;CustomerItem_name;CustomerItem_desc;CustomerItem_client;CustomerItem_ProdTime 
+CustomerItem_id;CustomerItem_name;CustomerItem_desc;CustomerItem_client;CustomerItem_ProdTime
 CI001;Product1;PDesc1;CL001;10
 CI002;Product2;PDesc2;CL001;5
 CI003;Product3;PDesc3;CL002;5
