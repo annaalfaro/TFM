@@ -1,9 +1,9 @@
 Supplier_id;Supplier_name;Supplier_address;Supplier_PostalCode;Supplier_City;Supplier_Country;Supplier_TransportDays (Days)
-SU001;Supplier1;C/Costa Rica, Num 30;45004;Toledo;SPAIN;5
-SU002;Supplier2;C/ Zumarkalea, Num 160;48013;Bilbao;SPAIN;5
-SU003;Supplier3;C/ Alta, Num 130;39008;Santander;SPAIN;3
-SU004;Supplier4;C/ del Sol, Num 50;33300;Villaviciosa;SPAIN;1
-SU005;Supplier5;C/ Madre de Dios, Num 9;26004;Logro–o;SPAIN;3
-SU006;Supplier6;C/ Edison, Num 10;15008;A Coru–a;SPAIN;3
-SU007;Supplier7;C/ Sant Joan, Num 13;17002;Girona;SPAIN;3
-SU008;Supplier8;C/ de Loudun, Num 50;09006;Burgos;SPAIN;4
+SU001;Supplier1;C/Costa Rica- Num 30;45004;Toledo;SPAIN;5
+SU002;Supplier2;C/ Zumarkalea- Num 160;48013;Bilbao;SPAIN;5
+SU003;Supplier3;C/ Alta- Num 130;39008;Santander;SPAIN;3
+SU004;Supplier4;C/ del Sol- Num 50;33300;Villaviciosa;SPAIN;1
+SU005;Supplier5;C/ Madre de Dios- Num 9;26004;Logro–o;SPAIN;3
+SU006;Supplier6;C/ Edison- Num 10;15008;A Coru–a;SPAIN;3
+SU007;Supplier7;C/ Sant Joan- Num 13;17002;Girona;SPAIN;3
+SU008;Supplier8;C/ de Loudun- Num 50;09006;Burgos;SPAIN;4
