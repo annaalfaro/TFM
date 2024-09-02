@@ -1,4 +1,4 @@
-Item_id;Item_name;Item_desc;Item_FinalItem;Item_Supplier;PO_ProdTime
+Item_id;Item_name;Item_desc;Item_FinalItem;Item_Supplier;Item_ProdTime
 IT001;Item1;IDesc1;CI001;SU001;1
 IT002;Item2;IDesc2;CI002;SU002;1
 IT003;Item3;IDesc3;CI003;SU003;3
